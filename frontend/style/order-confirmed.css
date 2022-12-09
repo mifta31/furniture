@@ -1,0 +1,128 @@
+/* HEADER*/
+.header {
+    border-bottom: 2px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.header h1 {
+    font-family: mukta;
+    font-size: 40px;
+    text-align: left;
+}
+.header img {
+    width: 30px;
+    padding: 5px;
+}
+.header h5 {
+    font-family: nunito;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.topnav {
+    overflow: hidden;
+    text-align: right;
+    color: black;
+    
+    padding-left: 0px;
+    padding-right: 10px;
+    margin-right: 0px;
+  }
+.topnav a {
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+  }
+/*TUTUP HEADER*/
+
+
+/*ORDER SUCCESS*/
+.order-success {
+    text-align: center;
+}
+.order-success h3 {
+    font-family: nunito;
+    font-weight: 700;
+    font-size: 40px;
+
+    color: #80CD52;
+
+    margin-top: 121px;
+    margin-bottom: 36px;
+}
+.order-success img {
+    border-radius: 90px;
+    margin-bottom: 93px;
+}
+.order-success h5 {
+    font-family: nunito;
+    font-weight: 400;
+    font-size: 24px;
+
+    color: black;
+
+    margin-bottom: 40px;
+}
+.order-success h4 {
+    font-family: nunito;
+    font-weight: 400;
+    font-size: 27px;
+
+    color: #4A549C;
+    text-decoration: none;
+
+    margin-bottom: 90px;
+}
+/*TUTUP ORDER SUCCESS*/
+
+
+/*  FOOTER*/
+.footer {
+    background-color: #beabab;
+    padding-top: 41px;
+    color: white;
+}
+.footer h1 {
+    font-family: mukta;
+    font-size: 40px;
+    text-align: left;
+}
+.footer .newslater {
+    width: 100%;
+
+    margin-bottom: 25px;
+}
+.footer input {
+    width: 70%;
+    height: 30px;
+}
+.footer button {
+    width: 20%;
+    height: 30px;
+    position: relative;
+    left: -5px;
+
+    background-color: #FF8686;
+    border: 1px black solid;
+}
+.footer h5 {
+    font-family: nunito;
+    font-size: 18px;
+    font-weight: 300;
+    font-weight: bold;
+}
+.footer p {
+    font-family: nunito;
+    font-size: 16px;
+    font-weight: 300;
+}
+.footer .copyright {
+    font-family: nunito;
+    font-size: 15px;
+    font-weight: 200;
+
+    margin-top: 60px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+/*TUTUP  FOOTER*/
